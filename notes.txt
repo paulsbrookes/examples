@@ -5,10 +5,9 @@ Snowdon
 Cadair Idris
 Various
 Others
-asdf
+Asdf
 Everest
-words
-asdf
+Words
 Pen y Pass
 Crib Goch
 Garnedd Ugain
